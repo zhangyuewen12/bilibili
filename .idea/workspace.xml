@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a7d25306-1e55-4247-ad8b-e6ad3f5a8920" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/agent/user_agents.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/sql/create_table_user_info.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/sql/hive.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/user_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/dump_to_json.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/video_info.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/video_name_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo/fakerHeaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/fakerHeaders.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo/spiderBiliUsrInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/spiderBiliUsrInfo.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spider-BiliUsrInfo" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/software/apache-maven-3.6_1.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/software/apache-maven-3.6_1.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="delegateBuildToMaven" value="true" />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="26jmhJJnGWkUmA6YjHCnCC0tLfJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="ts.external.directory.path" value="$PROJECT_DIR$/bili_web/node_modules/typescript/lib" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.bilibili.user_info_analysis.common" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.UserInfoAnalysisApplication">
+    <configuration name="UserInfoAnalysisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="user_info_analysis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.bilibili.user_info_analysis.UserInfoAnalysisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/bili_web/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="$USER_HOME$/Desktop/project/BigDataRampUp.SparkStreaming" value="PREVIEW" />
+        <entry key="$USER_HOME$/Desktop/project/EsSparkStreaming" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7d25306-1e55-4247-ad8b-e6ad3f5a8920" name="Default Changelist" comment="" />
+      <created>1647945487879</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1647945487879</updated>
+      <workItem from="1647945490569" duration="11000" />
+      <workItem from="1647945541362" duration="2553000" />
+      <workItem from="1648351119348" duration="9533000" />
+      <workItem from="1648363651192" duration="33242000" />
+      <workItem from="1649913500619" duration="1102000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
