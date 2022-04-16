@@ -10,6 +10,9 @@
       <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/dump_to_json.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/video_info.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/video/video_name_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo/fakerHeaders.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/fakerHeaders.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Spider-BiliUsrInfo/spiderBiliUsrInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/Spider-BiliUsrInfo/spiderBiliUsrInfo.py" afterDir="false" />
@@ -32,7 +35,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/Spider-BiliUsrInfo" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -62,7 +65,7 @@
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
     <property name="ts.external.directory.path" value="$PROJECT_DIR$/bili_web/node_modules/typescript/lib" />
   </component>
   <component name="RecentsManager">
@@ -134,7 +137,8 @@
       <workItem from="1647945541362" duration="2553000" />
       <workItem from="1648351119348" duration="9533000" />
       <workItem from="1648363651192" duration="33242000" />
-      <workItem from="1649913500619" duration="1102000" />
+      <workItem from="1649913500619" duration="2157000" />
+      <workItem from="1650034102544" duration="1896000" />
     </task>
     <servers />
   </component>
